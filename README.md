@@ -13,7 +13,10 @@ This work is adaption to [Inferring Psycholinguistic Properties of Words](http:/
 
 ### Citation ###
 
+Draft version
 [A Lightweight Regression Method to Infer Psycholinguistic Properties for Brazilian Portuguese](https://arxiv.org/pdf/1705.07008.pdf)
+
+Final version will appear in Proceedings of 20th international conference on Text, Speech and Dialogue.
 
 
 ### Dependencies ###
@@ -21,6 +24,7 @@ This work is adaption to [Inferring Psycholinguistic Properties of Words](http:/
 * scikit-learn (0.18.1)
 * scipy (0.18.1)
 * nltk (3.2.1)
+* keras (2.0)
 
 For more information, you can contact me via sborgesleandro@gmail.com or leandrobs@usp.br.
 
